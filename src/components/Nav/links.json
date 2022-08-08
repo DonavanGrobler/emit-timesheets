@@ -1,0 +1,17 @@
+{
+    "links": [
+        {
+            "label": "Timesheets",
+            "href": "/timesheets"
+        },
+        {
+            "label": "Kudos",
+            "href": "/kudos"
+        },
+        {
+            "label": "Events",
+            "href": "/events"
+        }
+    ]
+}
+
